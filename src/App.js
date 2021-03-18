@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-import AgeTracker from './AgeTracker';
+import EmojiTracker from './EmojiTracker';
 
 function App() {
   return (
-    <AgeTracker />
+    <EmojiTracker />
   );
 }
 
